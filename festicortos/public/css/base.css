@@ -1,0 +1,29 @@
+html{
+    background-color: #e2e2e285;
+}
+
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 2px solid #0a0a0a;
+}
+
+.tit1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    margin-left: 1rem;
+}
+
+.a1{
+    text-decoration: none;
+    color: #838181a8;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    margin-right: 1rem;
+}
+
+.a1:hover{
+    color: #000000;
+}
