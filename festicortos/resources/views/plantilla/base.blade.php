@@ -17,5 +17,8 @@
         </nav>
         @yield('header')
     </header>
+    <main>
+        @yield('content')
+    </main>
 </body>
 </html>
